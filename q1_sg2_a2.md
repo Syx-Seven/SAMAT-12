@@ -4,7 +4,7 @@ Code Quality Assessment Worksheet
 Section: 9 - Samat // Score:____________
 
 C# / Name: 12 / Paderna, John Oliver S. /  Date: 8/16/26
-
+Group: #10 Mones, #11 Nicolas #12 Paderna
 
 Instructions:
 The problem: Finding the highest (Maximum) number from a given list of numbers.
